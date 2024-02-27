@@ -12,6 +12,16 @@ Markdown -
 ls -lah 
 ```
 
+### A new header 3
+
+This is smoe text, we can have body text just set off from other things by a blank space above and below it.
+
+We can add horizontal bars like 
+
+----
+
+**Bold text**, *Italics*, ~~strikethrough~~ 
+
 
 1. numbered item 1
 2. numbered item 2
